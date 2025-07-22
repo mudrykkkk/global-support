@@ -172,8 +172,8 @@ export default function Layout({ children, currentLanguage = 'ua', onLanguageCha
                 {t.footer.contacts}
               </h3>
               <ul className="space-y-2 text-gray-300">
-                <li>contact@global-support.live</li>
-                <li>+1 (555) 123-4567</li>
+                <li>Telegram: @global_support12</li>
+                <li>+380 68 573 49 30</li>
                 <li>Ukraine, Poland, International</li>
               </ul>
             </div>
