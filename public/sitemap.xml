@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://global-support.live/ua/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/pl/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/en/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/ua/zajavka/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/zajavka/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/pl/zajavka/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/zajavka/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/en/zajavka/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/zajavka/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/zajavka/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/ua/privacy/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/privacy/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/pl/privacy/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/privacy/" />
+  </url>
+  <url>
+    <loc>https://global-support.live/en/privacy/</loc>
+    <lastmod>2025-01-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="ua" href="https://global-support.live/ua/privacy/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://global-support.live/pl/privacy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://global-support.live/en/privacy/" />
+  </url>
+</urlset>
