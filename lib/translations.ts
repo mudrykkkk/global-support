@@ -322,7 +322,7 @@ export const translations: Record<string, Translation> = {
       items: [
         {
           text: 'Global Support допомогла нам повністю переосмислити фінансову стратегію. Результати перевершили очікування.',
-          author: 'Марія Петренко',
+          author: 'Сергій Нікіфоров',
           position: 'Генеральний директор, TechCorp'
         },
         {
@@ -513,7 +513,7 @@ export const translations: Record<string, Translation> = {
       items: [
         {
           text: 'Global Support pomogła nam całkowicie przemyśleć strategię finansową. Wyniki przewyższyły oczekiwania.',
-          author: 'Maria Petrenko',
+          author: 'Serhii Nikiforov',
           position: 'Dyrektor Generalny, TechCorp'
         },
         {
@@ -704,7 +704,7 @@ export const translations: Record<string, Translation> = {
       items: [
         {
           text: 'Global Support helped us completely rethink our financial strategy. Results exceeded expectations.',
-          author: 'Maria Petrenko',
+          author: 'Serhii Nikiforov',
           position: 'CEO, TechCorp'
         },
         {
